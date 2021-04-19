@@ -32,4 +32,4 @@ Follow the instructions below to locally deploy the RNN text app to classify an 
 
 6. Now goto `./predict`  and you will see the prediction result of out sample input.
 
-![]<img src="./images/Terminal_run.gif" width="750" height="550">
+![]<img src="./images/Terminal_run.gif" width="750" height="450">
