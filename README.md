@@ -16,15 +16,15 @@ Follow the instructions below to locally deploy the RNN text app to classify an 
 
 1. Clone the repository into a desired location on your local machine.
 
-`git clone https://github.com/nmariya/ecommerce_predictive-app.git`
+      `git clone https://github.com/nmariya/ecommerce_predictive-app.git`
 
 2. Open the folder in an IDE. ex. Visual Studio Code
 
 
 3. Enter the following commands in the terminal
 
-`cd <location_of_folder>/application`
-`python app.py`
+      `cd <location_of_folder>/application`
+      `python app.py`
 
 4. Once you see the Flask app running, you'll get a local http. *ex. http://localhost:5000/*
 
