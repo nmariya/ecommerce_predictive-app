@@ -35,3 +35,5 @@ Follow the instructions below to locally deploy the RNN text app to classify an 
 <p align="center">
 <img src="./images/Terminal_run.gif", width="550", height="550"/>
 </p>
+
+![](./images/Terminal_run.gif)
